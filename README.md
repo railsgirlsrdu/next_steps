@@ -5,6 +5,7 @@
 * [CodeSchool](http://www.codeschool.com/)
 * [CodeAcademy](http://www.codecademy.com/)
 * [thoughtbot Learn](http://learn.thoughtbot.com)
+* [RailsGuides](http://guides.rubyonrails.org/)
 
 ## Organizations
 * [TriangleRB](http://www.meetup.com/raleighrb/)
