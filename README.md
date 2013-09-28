@@ -1,6 +1,7 @@
 # Next Steps for Learning Ruby & Rails
 
 ## Websites
+* [Rails Girls Guide: How to continue with programming](http://guides.railsgirls.com/how-to-continue-with-programming/)
 * [RailsTutorial](http://ruby.railstutorial.org/)
 * [CodeSchool](http://www.codeschool.com/)
 * [CodeAcademy](http://www.codecademy.com/)
