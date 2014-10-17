@@ -9,6 +9,7 @@
 * [RailsGuides](http://guides.rubyonrails.org/)
 
 ## Organizations
+
 * [TriangleRB](http://www.meetup.com/raleighrb/)
 * [Girl Develop IT RDU](http://www.meetup.com/Girl-Develop-It-RDU/)
 
