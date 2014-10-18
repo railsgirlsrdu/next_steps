@@ -2,11 +2,11 @@
 
 ## Websites
 * [Rails Girls Guide: How to continue with programming](http://guides.railsgirls.com/how-to-continue-with-programming/)
+* [RailsTutorial](http://ruby.railstutorial.org/)
 * [Rails Guides](http://guides.rubyonrails.org/)
 * [Code School](http://www.codeschool.com/)
 * [Codeacademy](http://www.codecademy.com/)
-* [thoughtbot Learn](http://learn.thoughtbot.com)
-* [RailsTutorial](http://ruby.railstutorial.org/)
+* [Upcase](https://upcase.com/dashboard)
 
 ## Organizations
 * [TriangleRB](http://www.meetup.com/raleighrb/)
